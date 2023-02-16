@@ -8,7 +8,7 @@
 Global Const $SC_DRAGMOVE = 0xF012
 
 _GDIPlus_Startup()
-Global $AshleyGrpahic = _GDIPlus_ImageLoadFromFile("Graphics\AshleyBG.png")
+Global $AshleyGrpahic = _GDIPlus_ImageLoadFromFile("resources\AshleyBG.png")
 Global $Graphic
 
 Main()

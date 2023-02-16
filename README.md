@@ -1,5 +1,12 @@
 # AutoIt Ashley
 
+## AutoIt Help
+- [Docs](https://www.autoitscript.com/autoit3/docs/)
+- [Keyword Reference](https://www.autoitscript.com/autoit3/docs/keywords.htm)
+- [Macro Reference](https://www.autoitscript.com/autoit3/docs/macros.htm)
+- [Function Reference](https://www.autoitscript.com/autoit3/docs/functions.htm)
+- [User Function Reference](https://www.autoitscript.com/autoit3/docs/libfunctions.htm)
+
 ## Rules
 There are 9 messages that might send. The customers timezone is used to localize
 the rule.
