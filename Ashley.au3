@@ -14,7 +14,7 @@ Global $Graphic
 Main()
 
 Func Main()
-	Local $style = $WS_POPUP
+	Local $style = $WS_POPUPWINDOW
 	Local $styleEx = $WS_EX_TOPMOST
 	Local $hGUI = GUICreate("Ashley", 300, 100, -1, -1, $style, $styleEx)
 	Local $idOK = GUICtrlCreateButton("OK", 112, 34, 76, 32, $BS_FLAT)
